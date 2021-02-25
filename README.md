@@ -1,7 +1,3 @@
-# App06-Zuul
- A test copy of the Zuul game using IJ
+# App06
  
- to be tried by:
- Derek Peacock and Andrei Cruceru
- 
- 
+
