@@ -42,3 +42,4 @@ public class Map
         return startRoom;
     }
 }
+// create the rooms set exits 
